@@ -7,32 +7,32 @@ O desafio envolve baixar, instalar e executar o módulo *alien*, antes será nec
 ## Procedimentos
 Clonar repositório usando o comando de conexão `Secure Shell (SSH)`
 
-```python
+```powershell
 git clone git@github.com:rodrigmars/aprendapygame.git
 ```
 
 Abrir projeto com `VSCode`
-```python
+```powershell
 cd .\aprendapygame\ && code .
 ```
 
 Criar ambiente virtual com `venv`
-```python
+```powershell
 python -m venv .venv
 ```
 
 Ativar ambiente virtual
-```python
+```powershell
 .\.venv\Scripts\Activate.ps1
 ```
 
 Instalar dependências
-```python
+```powershell
 pip install -r .\requirements.txt
 ```
 
 Executar módulo alien
-```python
+```powershell
 python .\src\alien.py
 ```
 
