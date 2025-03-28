@@ -1,21 +1,22 @@
 # Aprenda Pygame
-Este projeto serve como atividade introdutória para práticas de desenvolvimento
-com `git`, `github` e biblioteca [*`pygame`*](https://github.com/pygame/pygame).
-O desafio envolve baixar, instalar e executar o módulo game. Necessário instalar a *lib* [***`pyenv-win`***](https://github.com/pyenv-win/pyenv-win) para gerenciamento do interpretador Python. O ambiente de desenvolvimento contempla sistema operacional *`Windows`* e terminal *`PowerShel`*.
+`Aprenda Pygame` é um laboratório de programação 
+em Python com suporte a `git`, `github` e biblioteca [*`pygame`*](https://github.com/pygame/pygame).
+O desafio envolve baixar, instalar e executar o módulo *alien*, antes será necessário baixar a *lib* [***`pyenv-win`***](https://github.com/pyenv-win/pyenv-win) para instalação do interpretador Python. O ambiente de desenvolvimento deve contemplar sistema operacional *`Windows`*, terminal *`PowerShell`* e editor *`VSCode`*.
+
 
 ## Procedimentos
-Clonar repositório, o comando abaixo usa uma conexão do tipo `Secure Shell (SSH)`
+Clonar repositório usando o comando de conexão `Secure Shell (SSH)`
 
 ```python
 git clone git@github.com:rodrigmars/aprendapygame.git
 ```
 
-Abrir projeto dentro do VSCode
+Abrir projeto com `VSCode`
 ```python
 cd .\aprendapygame\ && code .
 ```
 
-Criar ambiente virtual
+Criar ambiente virtual com `venv`
 ```python
 python -m venv .venv
 ```
