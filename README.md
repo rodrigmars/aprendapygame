@@ -6,7 +6,7 @@ O desafio envolve baixar, instalar e executar o módulo *alien*, antes será nec
 
 ### Pré-requisitos
 
-Instalar ferramenta [*`pyenv-win`*](https://github.com/pyenv-win/pyenv-win/blob/master/docs/installation.md#powershell)
+Instalar ferramenta [*`pyenv-win`*](https://github.com/pyenv-win/pyenv-win/blob/master/docs/installation.md#powershell) no *`Windows`* com *`PowerShell`*.
 
 Clonar repositório usando o comando de conexão `Secure Shell (SSH)`
 
